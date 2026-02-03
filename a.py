@@ -1,0 +1,2 @@
+def ime():
+    pass
