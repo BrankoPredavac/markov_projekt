@@ -1,2 +1,2 @@
-def moja_funkcija(Prvi_dio_ppunog_imena):
+def moja_funkcija(ime):
     pass
